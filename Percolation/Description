@@ -1,0 +1,3 @@
+This program creates a square grid of specified size and opens grid boxes at random 
+until there is a path of open grid boxes from top row to the bottom row and gathers simple statistical data (mean, standard deviation and confidence interval).
+You can select the size of the grid and number of trials you want to run.
